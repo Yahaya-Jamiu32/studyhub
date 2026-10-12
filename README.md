@@ -18,3 +18,6 @@ Open `index.html` in a browser, or serve locally:
 - Buttons scroll to on-page sections; connect them to real routes when a backend exists.
 - Fonts load from Google Fonts (Plus Jakarta Sans) with system fallbacks.
 - Deploy to any static host (Netlify, Vercel, GitHub Pages).
+
+## Backend handoff
+See `HANDOFF.md` for the API contract, config, routes and QA checklist. Connect the API by editing `js/config.js`.
